@@ -284,8 +284,7 @@ and more.
   for research, trading, risk, analytics, reporting, and compliance.
 
 - [Base Identity & Reputation](https://github.com/n-burlakov/base-identity-reputation) - On-chain identity and reputation system for Base. Users can register profiles,
-  attach metadata, and give reputation to other addresses. Deployed on Base Sepolia
-  with verified contract and live dApp.
+  attach metadata, and give reputation to other addresses. Deployed on Base Sepolia with verified contract and live dApp.
 
 - **[Biconomy](https://www.biconomy.io/)**: Biconomy brings blockchain-agnostic,
   web2-like experiences to dApps in a non-custodial manner with our
